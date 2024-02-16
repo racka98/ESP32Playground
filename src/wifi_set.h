@@ -1,7 +1,7 @@
 #pragma once
 
-#define WIFI_SSID "The-Net"
-#define WIFI_PASSWORD "lanparty0598"
+#define WIFI_SSID "The-Net" // Put your wifi name here
+#define WIFI_PASSWORD "password" // Put your wifi password here
 
 void connect_to_wifi_blocking(void);
 

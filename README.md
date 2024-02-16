@@ -11,3 +11,9 @@ This is a repo containing a couple of code examples for ESP32 using Arduino Core
 - There is a couple of examples using different sensors with ESP32.
 
 - This is just a playground for me to experiment with different sensor and usecases for my ESP32
+
+## Sensor & Hardware used
+
+- HX711 Amplifier Mode with 4 50kg Load Cells
+
+- SSD1306 OLED Display 128x64 of address 0x3C
